@@ -13,7 +13,7 @@ A series of Java projects demonstrating various programming techniques and best 
 ## File Structure
 
 <pre>
-project_8
+project_9
 │
 ├── public
 │   └── static
